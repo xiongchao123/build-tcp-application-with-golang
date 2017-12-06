@@ -1,4 +1,4 @@
-# [build-tcp-application-with-golang] (https://github.com/xiongchao123/build-tcp-application-with-golang)
+# [build-tcp-application-with-golang](https://github.com/xiongchao123/build-tcp-application-with-golang)
 
 ## 功能
 * 使用Golang构建socket应用
